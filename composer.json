@@ -40,7 +40,8 @@
             "dealerdirect/phpcodesniffer-composer-installer": true,
             "php-http/discovery": true,
             "php-tuf/composer-integration": true,
-            "cweagans/composer-patches": true
+            "cweagans/composer-patches": true,
+            "symfony/runtime": true
         },
         "sort-packages": true
     },
